@@ -1,0 +1,96 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 small{
+    font-size: 0.5em;
+    color: black;
+}
+nav.navbar-dark {
+    background-color:  darkred!important;
+}
+header{
+    background-color: darkred;
+}
+.znak{
+    width: 150px;
+}
+small{
+    color: orangered!important;
+}
+.nadpis{
+
+
+    border-bottom: 4px solid darkred;
+    padding: 10px;
+    color: black;
+}
+.nadpis2{
+  padding: 5px;
+}
+.nadpis2:hover{
+
+
+  color: darkred;
+
+
+}
+.vlajka{
+    width: 350px;
+    border: 1px solid darkred;
+    border-radius: 10px;
+
+}
+.znak2{
+    width: 250px;
+}
+  
+  td {
+   
+    text-align: left;
+    padding: 3px;
+  }
+  .note{
+    border: 1px solid lightgray;
+    text-align: right;
+    border-top-style: solid;
+    border-right-style: none;
+    border-bottom-style: solid;
+    border-left-style: solid;
+  }
+  .poznamka{
+    border-left: 4px solid darkred;
+    background-color: rgb(240, 234, 234);
+    padding: 10px;
+    color: black;
+    text-align: left;
+  }
+  footer{
+
+   
+    border-top: 4px solid darkred;
+    background-color: rgb(240, 234, 234);
+    padding: 10px;
+    color: black;
+  
+  }
+  .ikon{
+      color: black;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  .portret{
+    border: 1px solid black;
+    border-radius: 10px;
+    opacity: 0.90;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  .portret:hover{
+    opacity: 1;
+  }
+  .card-header{
+    background-color: orange;
+  }
